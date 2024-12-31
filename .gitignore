@@ -2,3 +2,5 @@ dbmodenv/
 db_model.pkl
 db_standard_scaler.pkl
 update.txt
+db_model_fe.pkl
+db_standard_scaler_fe.pkl
